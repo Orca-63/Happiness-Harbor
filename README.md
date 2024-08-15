@@ -1,4 +1,4 @@
-![Screenshot 2024-08-15 230719](https://github.com/user-attachments/assets/37fca984-b89d-4028-a73d-fbafb3554be6)![Screenshot 2024-08-15 225815](https://github.com/user-attachments/assets/b2debbf3-bd70-42ab-977c-b8fe2a7e1e79)# Happiness Harbor : Anchor Your Mind, Nurture Your Well-Being.
+# Happiness Harbor : Anchor Your Mind, Nurture Your Well-Being.
 ** Happiness Harbor is a web platform designed to support mental well-being by offering a range of interactive programs and workshops. 
 Users can explore and enroll in various mental health activities, including mindfulness sessions, physical health routines, nutritional guidance, creative therapies, and stress relief techniques. 
 The platform also allows users manage their program subscriptions, and access wellness resources, all within a secure and user-friendly environment.**
