@@ -1,0 +1,169 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffdbac;
+
+    /* Background color for the page */
+}
+
+.div-flex {
+    margin-top: 40px;
+    column-gap: 2.5rem;
+}
+
+.main-heading {
+    font-weight: bold;
+    color: #001930;
+}
+
+.radio-text {
+    color: #8d5524;
+    font-weight: 500;
+    padding: 0.5rem;
+    font-size: large;
+
+}
+
+.Checkbox-text {
+    color: #8d5524;
+    font-weight: 500;
+    padding: 0.5rem;
+    font-size: large;
+
+}
+
+.m-heads-1,
+.m-heads-2 {
+    color: #001930;
+    font-weight: bold;
+
+}
+
+.main-block {
+    color: #001930;
+    padding: 1rem;
+    font-weight: bold;
+
+
+}
+
+.m-heads-2 {
+    margin-top: 15px;
+}
+
+.m-heads-1 {
+    margin-top: 30px;
+}
+
+/* Product Section */
+.product-section {
+    padding: 1.5rem;
+}
+
+.product-section h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #c48146;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.product-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.product-card img {
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+}
+
+.product-card .card-title {
+    font-size: 1.25rem;
+    color: #c48146;
+    font-weight: bold;
+}
+
+.product-card .card-text {
+    color: #c48146;
+    margin-bottom: 0.5rem;
+}
+
+.product-card .btn {
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    margin: 2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.btn-primary-hm {
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    color: white;
+    margin-right: 15px;
+}
+
+.btn-primary-hm:hover {
+    background: linear-gradient(135deg, #f2b85b, #f0a730);
+    color: #fff;
+}
+
+.btn-secondary-hm {
+    background: linear-gradient(135deg, #336da3, #3183d5, #33a6f2);
+    color: #fff
+}
+
+.btn-secondary-hm:hover {
+    background: linear-gradient(135deg, #5e95c9, #73a1cf, #73b6e3);
+    color: #fff;
+}
+
+.btn-warning {
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1rem;
+
+}
+
+.btn-warning:hover {
+    background: linear-gradient(135deg, #e67e22, #f39c12);
+    color: #fff;
+
+}
+
+/* Load More Button */
+.load-more {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.btn-primary-hmd {
+    display: flex;
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 0.1rem;
+
+    width: 200px;
+
+}

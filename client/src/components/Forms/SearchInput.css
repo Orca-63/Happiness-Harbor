@@ -1,0 +1,33 @@
+/* CSS for Navbar Search Form */
+
+
+
+.custom-form {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.custom-input {
+    width: 220px;
+    /* Adjust the width as needed */
+    padding: 0.4rem;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    margin-right: 0rem;
+}
+
+.custom-button {
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid #28a745;
+    background-color: #fff;
+    color: #28a745;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #28a745;
+    color: #fff;
+}

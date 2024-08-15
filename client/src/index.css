@@ -1,0 +1,630 @@
+body {
+    /* background-color: #ffdbac; */
+    margin-bottom: 0;
+}
+
+.navbar {
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: flex-end; */
+    /* Adjusted to separate brand and items */
+    display: flex;
+    background-color: #001930;
+    flex: 1;
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+
+
+.navbar::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg,
+            rgba(255, 255, 255, 0.3) 0%,
+            rgba(255, 255, 255, 0) 70%);
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #fff;
+    transition: color 0.3s ease;
+    border-radius: 5px;
+
+}
+
+
+.navbar-brand {
+    font-family: "Dancing Script", cursive;
+    font-weight: 500;
+    font-size: 2.1rem;
+    font-style: normal;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+    background-color: #fff;
+    color: #001930;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+    color: #001930;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+    border-radius: 2px;
+    width: 24px;
+    height: 2px;
+    display: block;
+    margin: 4px 0;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:hover {
+    background-color: #fff;
+    color: #001930;
+    outline: none;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.nav-link.active {
+    background-color: #fff;
+    color: #001930;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-collapse {
+
+    transition: all 0.3s ease;
+}
+
+
+
+
+/* .navbar-items {
+    display: flex;
+    justify-content: flex-end;
+    /* Aligns items to the extreme right */
+/* align-items: flex-end;
+    gap: 2rem; */
+/* Adds spacing between items */
+/* } */
+
+.img-Header {
+    float: left;
+}
+
+.custom-form {
+    /* display: flex;
+    align-items: center;
+    justify-content: flex-end; */
+}
+
+.custom-input {
+    width: 220px;
+    /* Adjust the width as needed */
+    padding: 0.4rem;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    margin-right: 0rem;
+}
+
+.custom-button {
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid #28a745;
+    background-color: #fff;
+    color: #28a745;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.footer {
+    margin-top: 0px;
+    background: #001930;
+    /* Lighter teal background */
+    color: #fff;
+    /* White text color */
+    padding: 8px 0;
+    /* Reduced padding for a shorter height */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Box shadow for depth */
+    text-align: center;
+    /* Center text */
+    font-family: 'Roboto', sans-serif;
+    /* Font style to match navbar */
+    position: relative;
+    /* Positioning for additional effects */
+}
+
+.footer h4 {
+    margin-top: 20px;
+
+    /* Reduced font size for header text */
+    /* font-weight: 600; */
+    /* Semi-bold font weight */
+    margin: 0;
+    /* Remove default margin */
+    /* text-transform: uppercase; */
+    /* Uppercase text for emphasis */
+    letter-spacing: 1px;
+    /* Spacing between letters for style */
+}
+
+.footer p {
+    margin-top: 10px;
+    /* Reduced margin between header and links */
+    display: flex;
+    /* Flexbox for horizontal layout */
+    justify-content: center;
+    /* Center the links */
+    gap: 16px;
+    /* Reduced spacing between links */
+}
+
+.footer a {
+
+    color: inherit;
+    /* Inherit text color */
+    text-decoration: none;
+    /* Remove underline */
+    padding: 6px 10px;
+    /* Reduced padding for clickable area */
+    border-radius: 4px;
+    /* Rounded corners */
+    transition: 0.3s ease, transform 0.3s ease;
+    /* Smooth transition */
+}
+
+.footer a:hover {
+
+    /* Background on hover */
+    transform: translateY(-1px);
+    background-color: #fff;
+    color: #001930;
+
+    /* Slight lift effect on hover */
+}
+
+.footer a:active {
+    background-color: #fff;
+    /* White background for the active link */
+    color: #001930;
+    /* Dark blue text color for the active link */
+    border-radius: 4px;
+    /* Optional: adds rounded corners */
+    padding: 0.5rem 1rem;
+    /* Optional: adjusts padding */
+
+}
+
+
+
+
+
+
+.pnf {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    background-color: #ffdbac;
+    height: 100vh;
+    text-align: center;
+    /* Center all text in the container */
+    padding: 20px;
+    color: #8d5524;
+    /* Light text color for contrast */
+}
+
+.pnf-title {
+    margin-top: 200px;
+    font-size: 6rem;
+    /* Large font size for the error code */
+    margin-bottom: 0px;
+    color: #8d5524;
+    /* Darker version for the error code */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    /* Slight shadow for depth */
+}
+
+.pnf-heading {
+    font-size: 2rem;
+    /* Larger font size for the error message */
+    margin-bottom: 30px;
+}
+
+.pnf-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    /* Padding for the button */
+    font-size: 1.2rem;
+    /* Slightly larger font size for the button */
+    color: #fff;
+    /* Text color matching background */
+    background-color: #001930;
+    /* Light background for the button */
+    border: none;
+    border-radius: 4px;
+    /* Slightly rounded corners */
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    /* Smooth transition */
+}
+
+.pnf-btn:hover {
+    background: linear-gradient(135deg, #004d40, #04544a, #002e24);
+
+    color: #fff;
+    /* Slightly darker on hover */
+    transform: translateY(-2px);
+    /* Small lift effect on hover */
+}
+
+
+/* About Page Styles */
+.about-page {
+    padding: 30px;
+    background-color: #ffdbac;
+    /* Light peach background */
+    color: #8d5524;
+    /* Warm brown text color */
+    display: flex;
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Center content vertically */
+    min-height: 100vh;
+    margin-bottom: 0;
+    /* Full viewport height */
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* Two equal columns */
+    gap: 30px;
+    /* Space between columns */
+    align-items: center;
+    /* Align items vertically in their respective columns */
+    max-width: 1200px;
+    /* Limit the maximum width */
+    width: 100%;
+
+
+    /* Full width of the container */
+}
+
+.about-content {
+    line-height: 1.8;
+}
+
+.about-content h1 {
+    font-size: 40px;
+    color: #001930;
+    /* Dark blue text color */
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.about-image {
+    display: flex;
+    /* Use flexbox for centering the image */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+}
+
+.about-image img {
+    max-width: 80%;
+    /* Ensure the image scales within its container */
+    height: 500px;
+    /* Maintain aspect ratio */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Optional: adds a shadow effect */
+    border-radius: 12px;
+
+    /* Optional: adds rounded corners */
+}
+
+.contact-page {
+    padding: 30px;
+    background-color: #ffdbac;
+    /* Light peach background */
+    color: #8d5524;
+    /* Warm brown text color */
+    display: flex;
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Center content vertically */
+    min-height: 100vh;
+    /* Full viewport height */
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* Two equal columns */
+    gap: 20px;
+    /* Space between columns */
+    align-items: center;
+    /* Align items vertically in their respective columns */
+    max-width: 1200px;
+    /* Limit the maximum width */
+    width: 100%;
+    /* Full width of the container */
+}
+
+.contact-content {
+    line-height: 1.8;
+}
+
+.contact-content h1 {
+    font-size: 40px;
+    color: #001930;
+    /* Dark blue text color */
+    margin-bottom: 20px;
+}
+
+.contact-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contact-content ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-content li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.contact-image {
+    display: flex;
+    /* Use flexbox for centering the image */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+}
+
+.contact-image img {
+    max-width: 80%;
+    /* Ensure the image scales within its container */
+    height: 500px;
+    /* Maintain aspect ratio */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Adds a shadow effect */
+    border-radius: 12px;
+    /* Adds rounded corners */
+}
+
+
+/* Privacy Policy Page Styles */
+.privacy-page {
+    padding: 30px;
+    background-color: #ffdbac;
+    /* Light peach background */
+    color: #8d5524;
+    /* Warm brown text color */
+    display: flex;
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Center content vertically */
+    min-height: 100vh;
+    /* Full viewport height */
+}
+
+.privacy-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* Two equal columns */
+    gap: 20px;
+    /* Space between columns */
+    align-items: center;
+    /* Align items vertically in their respective columns */
+    max-width: 1200px;
+    /* Limit the maximum width */
+    width: 100%;
+    /* Full width of the container */
+}
+
+.privacy-content {
+    line-height: 1.8;
+}
+
+.privacy-content h1 {
+    font-size: 40px;
+    color: #001930;
+    /* Dark blue text color */
+    margin-bottom: 20px;
+}
+
+.privacy-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.privacy-image {
+    display: flex;
+    /* Use flexbox for centering the image */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+}
+
+.privacy-image img {
+    max-width: 80%;
+    /* Ensure the image scales within its container */
+    height: 500px;
+    /* Maintain aspect ratio */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Adds a shadow effect */
+    border-radius: 12px;
+    /* Adds rounded corners */
+}
+
+
+/* Registration Page Styles */
+.register {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+    color: #001930;
+    /* Dark blue color for heading */
+}
+
+.registration-form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 2rem;
+    background-color: #f3c17f;
+    /* Light background color */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+    color: #001930;
+    /* Dark blue color for labels */
+}
+
+.form-control {
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    padding: 0.75rem 1.25rem;
+    transition: border-color 0.2s ease;
+}
+
+.form-control:focus {
+    border-color: #001930;
+    box-shadow: 0 0 0 0.2rem rgba(26, 35, 126, 0.25);
+}
+
+.button-group {
+    display: flex;
+
+    justify-content: center;
+    gap: 30px;
+
+    /* Space between buttons */
+}
+
+.btn-primary {
+    background-color: #004d40;
+    width: 200px;
+    /* Dark blue color for the button */
+    border: none;
+    padding: 0.8rem 0.2rem;
+    border-radius: 18px;
+    color: white;
+
+
+    transition: background-color 0.2s ease;
+    margin-right: 10px;
+    /* Space between buttons */
+    width: 200px;
+    background: linear-gradient(135deg, #00796b, #004d40, #00382f);
+    /* Enhanced gradient */
+}
+
+.btn-primary:hover {
+    /* background: linear-gradient(135deg, #8bc34a, #66bb6a, #4caf50, #43a047); */
+    background: linear-gradient(135deg, #009688, #00695c, #004d40);
+    color: #fff;
+}
+
+
+
+.btn-secondary {
+    background-color: #001930;
+    width: 200px;
+    /* Lighter blue for the forgot password button */
+    border: none;
+    padding: 0.8rem 0.2rem;
+    border-radius: 18px;
+    color: white;
+
+
+    transition: background-color 0.2s ease;
+    margin-right: 10px;
+    width: 200px;
+    background: linear-gradient(135deg, #001930, #012951, #001a2b);
+    /* Gradient for secondary button */
+}
+
+.btn-secondary:hover {
+    background: linear-gradient(135deg, #032a4f, #07437e, #03568d);
+    /* Hover effect for secondary button */
+    color: #fff;
+}
+
+
+.submit-button {
+    background-color: #004d40;
+    width: 200px;
+    /* Dark blue color for the button */
+    border: none;
+    padding: 0.8rem 0.2rem;
+    border-radius: 18px;
+    color: white;
+
+
+    transition: background-color 0.2s ease;
+    margin-right: 10px;
+    /* Space between buttons */
+    width: 400px;
+    background: linear-gradient(135deg, #00796b, #004d40, #00382f);
+}
+
+.submit-button:hover {
+    background: linear-gradient(135deg, #009688, #00695c, #004d40);
+    /* Hover effect */
+    color: #fff;
+}
+
+
+
+.form-check-label {
+    color: #001930;
+    /* Dark blue color for checkbox label */
+}
+
+.form-check-input {
+    margin-top: 0.25rem;
+    margin-right: 0.5rem;
+}

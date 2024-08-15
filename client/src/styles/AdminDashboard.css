@@ -1,0 +1,48 @@
+.list-group {
+    /* Ensure equal spacing between buttons */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    /* Equal spacing between each item */
+    padding: 1rem;
+    margin-left: 15px;
+    list-style-type: none;
+    color: #8d5524;
+    /* Remove any default list styling */
+}
+
+.list-group-item {
+    /* Base styles for buttons */
+    background: linear-gradient(135deg, #001930, #012951, #001a2b);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.75rem 1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    text-align: center;
+
+    /* Ensures buttons stretch to the container's width */
+    max-width: 300px;
+    /* Optional: Set a max width for better control */
+    outline: none;
+    /* Remove default outline for focus */
+}
+
+.list-group-item:hover {
+    /* Hover effect */
+    color: #fff;
+    background: linear-gradient(135deg, #00796b, #004d40, #00382f);
+    transform: translateY(-2px);
+}
+
+/* Focus effect: immediately when clicked */
+
+.list-group-item.active {
+    /* Active effect (styled same as hover) */
+    background: linear-gradient(135deg, #00796b, #004d40, #00382f);
+    transform: translateY(-2px);
+}
+
+/* Ensure all other items reset when one is focused */

@@ -1,0 +1,162 @@
+/* Orders.css */
+
+.card-order {
+    background-color: #fff;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+
+    /* Adds space between cards */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Adds box shadow to the cards */
+    display: flex;
+    flex-direction: column;
+
+    /* Ensures the content inside each card is stacked vertically */
+
+    /* Sets the card width to 100% of the container's width */
+
+    margin-left: 20px;
+    /* Limits the maximum width of the cards */
+}
+
+.card-order-m {
+
+    height: 410px;
+    width: 280px;
+    gap: 1rem;
+
+}
+
+.h-orders {
+    font-size: 1rem;
+}
+
+.card-img-top-cart-orders {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 0.5rem;
+    border-radius: 8px;
+}
+
+/* Ensure the container is using flexbox with row direction */
+.container-orders {
+    display: flex;
+    flex-direction: row;
+
+    /* Adds a gap between the flex items */
+    flex-wrap: wrap;
+    /* Ensures the cards wrap to the next line if necessary */
+}
+
+.price-user {
+    color: green;
+    font-weight: 600;
+}
+
+.users-des {
+    color: #955115;
+}
+
+.users-name {
+    color: #001930;
+    font-weight: 600;
+}
+
+.h1-users {
+    color: #955115;
+    font-weight: 600;
+}
+
+.cart-danger {
+    width: 170px;
+    padding: 0.4rem;
+    margin-top: 10px;
+}
+
+.text-orders {
+    color: #955115;
+    font-weight: 600;
+}
+
+.text-orders-second {
+
+    color: #001930;
+    font-weight: 600;
+}
+
+
+.price-user-second {
+    color: green;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.users-des-second {
+    font-size: 1.1rem;
+    color: #955115;
+}
+
+.users-name-second {
+    font-size: 1.2rem;
+    color: #001930;
+    font-weight: 600;
+}
+
+.pay-heading {
+    margin-top: 0px;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #001930;
+}
+
+.payOptions {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #955115;
+}
+
+.pay-total-heading {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #001930;
+}
+
+.pay-total-heading {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: green;
+}
+
+.braintree-heading {
+    color: #001930;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.pay-button {
+    margin-bottom: 20px;
+}
+
+.braintree-upper-container {
+    width: 400px;
+    margin-top: 30px;
+
+}
+
+.braintree-option:first-child,
+.braintree-option:last-child {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.braintree-option:first-child:hover,
+.braintree-option:last-child:hover,
+.braintree-large-button:hover {
+    background-color: rgb(75, 233, 75);
+}
+
+.braintree-large-button {
+    width: 400px;
+    margin-left: 8px;
+}

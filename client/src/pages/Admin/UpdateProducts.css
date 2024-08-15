@@ -1,0 +1,20 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    /* Align buttons to the left */
+    gap: 1rem;
+    /* Space between buttons */
+    margin-bottom: 1rem;
+    /* Add margin below the button group */
+}
+
+.button-container .btn {
+    flex: 1;
+    /* Equal width for both buttons */
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    width: 200px;
+    border-radius: 15px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+
+}

@@ -1,0 +1,112 @@
+.main-div-pd {
+    display: flex;
+
+
+    background-color: #f7efd0;
+    padding: 2rem;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px #955115(0, 0.1, 0.1, 0.3);
+    height: 580px;
+
+}
+
+.card-img {
+    margin-top: 40px;
+    border-radius: 20px;
+    height: 400px;
+    width: 600px;
+    box-shadow: 0 4px 6px #955115(0, 0.1, 0.1, 0.3);
+
+
+}
+
+.text-center-pd {
+    color: #001930;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.pd-h {
+    color: #001930;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.pd-sh {
+    font-size: 1.5rem;
+    color: #955115;
+    font-weight: 500;
+}
+
+.btn-secondary-pd {
+    width: 155px;
+    padding: 1rem;
+    font-size: 1rem;
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+.btn-secondary-pd-user {
+    margin-top: 30px;
+    width: 200px;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+.btn-secondary-pd-user:hover {
+    background: linear-gradient(135deg, #f2b85b, #f0a730);
+    color: #fff;
+    transform: translateY(-3px);
+
+}
+
+.btn-secondary-pd:hover {
+    background: linear-gradient(135deg, #f2b85b, #f0a730);
+    color: #fff;
+    transform: translateY(-3px);
+
+}
+
+.h1-pd {
+    margin-top: 20px;
+    text-align: center;
+    color: #955115;
+    font-size: 2rem;
+    font-weight: 500;
+
+
+}
+
+.cb-pd {
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+.h2-pd {
+    margin-top: 20px;
+    text-align: center;
+    color: #001930;
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+
+.h6-pd {
+    margin-top: 20px;
+    text-align: center;
+    color: #955115;
+    font-size: 1.5rem;
+    font-weight: 500;
+
+
+}
