@@ -80,7 +80,7 @@ const CreateProduct = () => {
                             </Select>
                             <div className="mb-3-cpd">
                                 <label className="btn btn-outline-secondary-cpd col-md-12">
-                                    {photo ? photo.name : "Upload Image (Less then 1MB)"}
+                                    {photo ? photo.name : "Upload Image (Less than 1MB)"}
                                     <input type="file" name="photo" accept="image/*" onChange={(e) => setPhoto(e.target.files[0])} hidden />
                                 </label>
                             </div>
