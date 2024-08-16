@@ -35,8 +35,8 @@ The platform also allows users manage their program subscriptions, and access we
 
 ## Admin Panel : 
 ## All Orders Page :
-![Screenshot 2024-08-15 224739](https://github.com/user-attachments/assets/5be3b6c1-4a3f-4017-a79c-b818a882ca7b)
-![Screenshot 2024-08-15 224840](https://github.com/user-attachments/assets/1829d6da-1b8d-4edd-9eb9-9070672865c3)
+![Screenshot 2024-08-16 103325](https://github.com/user-attachments/assets/ea9771f6-6a56-4b88-9f6a-d63bd862a511) ![Screenshot 2024-08-16 103412](https://github.com/user-attachments/assets/18c49c85-18d2-4e81-87e1-d96d70dfc05b)
+
 
 
 
