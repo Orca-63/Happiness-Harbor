@@ -104,7 +104,7 @@ const CreateProduct = () => {
 
                                 </div>
                                 <div className="mb-3-cpd">
-                                    <input type="number" value={quantity} placeholder="Put the Quantity" className="form-control" onChange={(e) => setQuantity(e.target.value)} />
+                                    <input type="number" value={quantity} placeholder="Put the number of available slots" className="form-control" onChange={(e) => setQuantity(e.target.value)} />
 
                                 </div>
                                 <div className="mb-3-cpd">
