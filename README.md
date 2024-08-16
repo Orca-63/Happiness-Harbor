@@ -49,7 +49,8 @@ The platform also allows users manage their program subscriptions, and access we
 
 
 # Page for Launching a New Program/Workshop : 
-![Screenshot 2024-08-16 033544](https://github.com/user-attachments/assets/eaf9ba08-4de3-4c1e-9848-4f7bd6a4598c)
+![Screenshot 2024-08-16 105744](https://github.com/user-attachments/assets/6d044de0-7c1a-4165-b8ac-da213ed798fb)
+
 
 
 
