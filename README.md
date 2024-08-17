@@ -6,9 +6,19 @@ The platform also allows users manage their program subscriptions, and access we
 
 # Table of Contents : 
 [Features](#Features)
-[Technologies Used](#TechnologiesUsed)
 
-# Features :
+
+[Technologies Used](#Technologies-Used)
+
+
+[Running the Application](#Ruunning-the-Application)
+
+
+[Website Pages Preview](#Website-Pages-Preview)
+
+
+
+# Features
 **Browse Programs** : Explore an extensive collection of mental well-being programs across various categories.
 
 
@@ -29,7 +39,7 @@ The platform also allows users manage their program subscriptions, and access we
 
 
 
-# Technologies Used : 
+# Technologies Used 
 
 
 ## Frontend :
@@ -75,7 +85,7 @@ The platform also allows users manage their program subscriptions, and access we
 
 
 
-# Running the Project :
+# Running the Application
 
 
 
@@ -86,14 +96,14 @@ git clone https://github.com/Orca-63/Happiness-Harbor.git
 
 
 
-## Navigate to the Project Directory : 
+## Navigate to the Project Directory 
 
 
 cd Mental_Well_Being_Website
 
 
 
-## Install the Dependencies : 
+## Install the Dependencies 
 
 
 npm install
@@ -112,7 +122,7 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-# Features and Website Pages Preview: 
+# Website Pages Preview 
 
 
 
