@@ -92,28 +92,28 @@ For data storage and management.
 
 
 
-**Clone the Repository** 
+## Clone the Repository
 
 
 git clone https://github.com/Orca-63/Happiness-Harbor.git
 
 
 
-**Navigate to the Project Directory** : 
+## Navigate to the Project Directory : 
 
 
 cd Mental_Well_Being_Website
 
 
 
-**Install the Dependencies** : 
+## Install the Dependencies : 
 
 
 npm install
 
 
 
-**Run the Application**
+## Run the Application
 
 
 npm run dev 
