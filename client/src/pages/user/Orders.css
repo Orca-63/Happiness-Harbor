@@ -1,27 +1,18 @@
-/* Orders.css */
-
 .card-order {
     background-color: #fff;
     padding: 0.5rem;
     margin-bottom: 1rem;
-
-    /* Adds space between cards */
+    border: none;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    /* Adds box shadow to the cards */
     display: flex;
     flex-direction: column;
-
-    /* Ensures the content inside each card is stacked vertically */
-
-    /* Sets the card width to 100% of the container's width */
-
     margin-left: 20px;
-    /* Limits the maximum width of the cards */
+
 }
 
 .card-order-m {
-
+    border: none;
     height: 410px;
     width: 280px;
     gap: 1rem;
@@ -38,14 +29,14 @@
     border-radius: 8px;
 }
 
-/* Ensure the container is using flexbox with row direction */
+
 .container-orders {
     display: flex;
     flex-direction: row;
 
-    /* Adds a gap between the flex items */
+
     flex-wrap: wrap;
-    /* Ensures the cards wrap to the next line if necessary */
+
 }
 
 .price-user {
@@ -109,6 +100,12 @@
     color: #001930;
 }
 
+.braintree-sheet {
+
+    border: none;
+}
+
+
 .payOptions {
     font-size: 1.5rem;
     font-weight: 500;
@@ -138,6 +135,7 @@
 }
 
 .braintree-upper-container {
+    border: none;
     width: 400px;
     margin-top: 30px;
 
@@ -153,10 +151,17 @@
 .braintree-option:first-child:hover,
 .braintree-option:last-child:hover,
 .braintree-large-button:hover {
-    background-color: rgb(75, 233, 75);
+    background-color: rgb(178, 244, 178);
 }
 
 .braintree-large-button {
+
+    background-color: rgb(156, 246, 156);
     width: 400px;
     margin-left: 8px;
+}
+
+.braintree-large-button>span {
+    border: none;
+    color: darkblue;
 }
