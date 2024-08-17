@@ -177,7 +177,6 @@ The page displays a summary of selected items, including program titles, descrip
 
 
 ![Screenshot 2024-08-17 121237](https://github.com/user-attachments/assets/90855f6b-3c64-4779-9781-8a2f3bb344b4)
-
 ![Screenshot 2024-08-17 121306](https://github.com/user-attachments/assets/088ea47b-b0d2-4d28-8899-e927a95e9825)
 
 
