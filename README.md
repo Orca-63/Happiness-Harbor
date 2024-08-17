@@ -62,7 +62,7 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-## Features : 
+### Features and Website Pages Preview: 
 
 
 
@@ -164,7 +164,7 @@ The Search functionality on the Happiness Harbor website allows users to quickly
 
 
 
-# Admin Panel : 
+## Admin Panel : 
 
 
 
@@ -233,9 +233,9 @@ The All Orders page in the admin panel offers a comprehensive view of all custom
 
 
 
+![Screenshot 2024-08-15 225013](https://github.com/user-attachments/assets/6b69b59e-1b27-4163-b738-337f2265de79)
+![Screenshot 2024-08-15 225043](https://github.com/user-attachments/assets/53d4e395-7313-46cc-bf88-3d86dc3dc135)
 
-![Screenshot 2024-08-16 103325](https://github.com/user-attachments/assets/ea9771f6-6a56-4b88-9f6a-d63bd862a511) 
-![Screenshot 2024-08-16 103412](https://github.com/user-attachments/assets/18c49c85-18d2-4e81-87e1-d96d70dfc05b)
 
 
 
