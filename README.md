@@ -1,5 +1,5 @@
-### Happiness Harbor : Anchor Your Mind, Nurture Your Well-Being.
-## Happiness Harbor ~  is a web platform designed to support mental well-being by offering a range of interactive programs and workshops. 
+# Happiness Harbor : Anchor Your Mind, Nurture Your Well-Being.
+Happiness Harbor is a web platform designed to support mental well-being by offering a range of interactive programs and workshops. 
 Users can explore and enroll in various mental health activities, including mindfulness sessions, physical health routines, nutritional guidance, creative therapies, and stress relief techniques. 
 The platform also allows users manage their program subscriptions, and access wellness resources, all within a secure and user-friendly environment.
 
@@ -62,15 +62,15 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-### Features and Website Pages Preview: 
+# Features and Website Pages Preview: 
 
 
 
-## User Portal : 
+# User Portal : 
 
 
 
-# Home Page : 
+## Home Page : 
 
 Explore a wide range of mental well-being programs categorized into Mindfulness, Physical Health, Nutrition, Personal Development, Creative Therapy, and Stress Relief. : 
 
@@ -90,7 +90,7 @@ Explore a wide range of mental well-being programs categorized into Mindfulness,
 
 
 
-# Program/Workshop Details Page : 
+## Program/Workshop Details Page : 
 
 The Program/Workshop Detail page on the Happiness Harbor website provides users with in-depth information about a specific mental well-being program or workshop.Additionally, the page offers recommendations for similar programs, enhancing the user experience by suggesting relevant content based on the current selection. : 
 
@@ -109,7 +109,7 @@ The Program/Workshop Detail page on the Happiness Harbor website provides users 
 
 
 
-# User's Cart Page :
+## User's Cart Page :
 
 The page displays a summary of selected items, including program titles, descriptions, and prices.Users can remove items from the cart or proceed to checkout,the Cart page integrates a secure payment gateway, allowing users to complete their transactions with ease and confidence  and ensuring that users can focus on enhancing their well-being without any hassle. : 
 
@@ -128,7 +128,7 @@ The page displays a summary of selected items, including program titles, descrip
 
 
 
-# User's Order Page :
+## User's Order Page :
 
 The All Orders page on the Happiness Harbor website provides users with a comprehensive overview of their past purchases. This page displays the status of each order, including whether it is pending, shipped, or delivered. Users can view the quantity of products purchased, the payment status (successful or failed), and the exact time when the order was placed. : 
 
@@ -146,7 +146,7 @@ The All Orders page on the Happiness Harbor website provides users with a compre
 
 
 
-# Search Functionality :
+## Search Functionality :
 
 The Search functionality on the Happiness Harbor website allows users to quickly find products that match their interests. By entering keywords, users can discover the most relevant products available on the platform. : 
 
@@ -164,12 +164,12 @@ The Search functionality on the Happiness Harbor website allows users to quickly
 
 
 
-## Admin Panel : 
+# Admin Panel : 
 
 
 
 
-# Categories Page: 
+## Categories Page: 
 
 The Categories page in the admin panel allows for efficient management of product categories. Admins can create new categories, update existing ones, and delete obsolete categories. This feature ensures an organized and up-to-date category structure for the website. :  
 
@@ -189,7 +189,7 @@ The Categories page in the admin panel allows for efficient management of produc
 
 
 
-# Program/Workshop Launch Page : 
+## Program/Workshop Launch Page : 
 
 The Product Launch Hub page provides a streamlined interface for introducing new products. It allows the Admin to input essential details including the product name, description, category, and price. Additionally, the Admin can specify available spots and set the shipping status :
 
@@ -208,7 +208,7 @@ The Product Launch Hub page provides a streamlined interface for introducing new
 
 
 
-# Update Products Page : 
+## Update Products Page : 
 
 The Update Products page provides a user-friendly interface for the admin to manage and maintain product listings. The admin can update crucial details such as product name, description, category, price, available spots, and shipping status. Additionally, this page includes an option to delete products, ensuring that the admin can efficiently manage the inventory and keep the product catalog up to date.
 
@@ -227,7 +227,7 @@ The Update Products page provides a user-friendly interface for the admin to man
 
 
 
-# All orders Page of the Admin Panel : 
+## All orders Page of the Admin Panel : 
 
 The All Orders page in the admin panel offers a comprehensive view of all customer orders. It displays critical information including the status of each order, the quantity of products purchased, payment status, and the time when each order was placed.
 
