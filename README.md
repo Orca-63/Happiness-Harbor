@@ -5,7 +5,8 @@ The platform also allows users manage their program subscriptions, and access we
 
 
 # Table of Contents : 
-[Features](#L10)
+[Features](#Features)
+[Technologies Used](#TechnologiesUsed)
 
 # Features :
 **Browse Programs** : Explore an extensive collection of mental well-being programs across various categories.
