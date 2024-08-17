@@ -176,8 +176,11 @@ The page displays a summary of selected items, including program titles, descrip
 
 
 
-![Screenshot 2024-08-15 203813](https://github.com/user-attachments/assets/6883ccd1-cdbf-47f7-854d-7c3238429b2c)
-![Screenshot 2024-08-15 203907](https://github.com/user-attachments/assets/5558b8a2-c28a-4ee7-a9b5-175b4e9b8788)
+![Screenshot 2024-08-17 121237](https://github.com/user-attachments/assets/90855f6b-3c64-4779-9781-8a2f3bb344b4)
+
+![Screenshot 2024-08-17 121306](https://github.com/user-attachments/assets/088ea47b-b0d2-4d28-8899-e927a95e9825)
+
+
 
 
 
@@ -275,8 +278,9 @@ The Update Products page provides a user-friendly interface for the admin to man
 
 
 
-![Screenshot 2024-08-17 101256](https://github.com/user-attachments/assets/fd17a27e-7bfa-4a1a-a47a-3d7eaf2f560d)
-![Screenshot 2024-08-17 101325](https://github.com/user-attachments/assets/11b89179-f1f6-43dc-a231-557a2bbf1c0e)
+![Screenshot 2024-08-17 121812](https://github.com/user-attachments/assets/e160090c-ade1-4fe4-a4af-6f8e3b23a077)
+![Screenshot 2024-08-17 121924](https://github.com/user-attachments/assets/8c4ae32e-5a68-4fc4-bd49-5ba5251aaa19)
+
 
 
 
