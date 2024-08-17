@@ -70,7 +70,7 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**Home Page ~** Explore a wide range of mental well-being programs categorized into Mindfulness, Physical Health, Nutrition, Personal Development, Creative Therapy, and Stress Relief. : 
+**Home Page** Explore a wide range of mental well-being programs categorized into Mindfulness, Physical Health, Nutrition, Personal Development, Creative Therapy, and Stress Relief. : 
 
 
 
@@ -82,7 +82,10 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**Program/Workshop Details Page ~** The Program/Workshop Detail page on the Happiness Harbor website provides users with in-depth information about a specific mental well-being program or workshop.Additionally, the page offers recommendations for similar programs, enhancing the user experience by suggesting relevant content based on the current selection. : 
+
+
+
+**Program/Workshop Details Page** The Program/Workshop Detail page on the Happiness Harbor website provides users with in-depth information about a specific mental well-being program or workshop.Additionally, the page offers recommendations for similar programs, enhancing the user experience by suggesting relevant content based on the current selection. : 
 
 
 
@@ -95,7 +98,11 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**User's Cart Page ~** The page displays a summary of selected items, including program titles, descriptions, and prices.Users can remove items from the cart or proceed to checkout,the Cart page integrates a secure payment gateway, allowing users to complete their transactions with ease and confidence  and ensuring that users can focus on enhancing their well-being without any hassle. : 
+
+
+
+
+**User's Cart Page** The page displays a summary of selected items, including program titles, descriptions, and prices.Users can remove items from the cart or proceed to checkout,the Cart page integrates a secure payment gateway, allowing users to complete their transactions with ease and confidence  and ensuring that users can focus on enhancing their well-being without any hassle. : 
 
 
 
@@ -108,7 +115,11 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**User's Order Page ~** The All Orders page on the Happiness Harbor website provides users with a comprehensive overview of their past purchases. This page displays the status of each order, including whether it is pending, shipped, or delivered. Users can view the quantity of products purchased, the payment status (successful or failed), and the exact time when the order was placed. : 
+
+
+
+
+**User's Order Page** The All Orders page on the Happiness Harbor website provides users with a comprehensive overview of their past purchases. This page displays the status of each order, including whether it is pending, shipped, or delivered. Users can view the quantity of products purchased, the payment status (successful or failed), and the exact time when the order was placed. : 
 
 
 
@@ -121,7 +132,10 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**Search Functionality ~** The Search functionality on the Happiness Harbor website allows users to quickly find products that match their interests. By entering keywords, users can discover the most relevant products available on the platform. : 
+
+
+
+**Search Functionality** The Search functionality on the Happiness Harbor website allows users to quickly find products that match their interests. By entering keywords, users can discover the most relevant products available on the platform. : 
 
 
 
@@ -134,12 +148,15 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
+
+
+
 # Admin Panel : 
 
 
 
 
-**Categories Page ~** The Categories page in the admin panel allows for efficient management of product categories. Admins can create new categories, update existing ones, and delete obsolete categories. This feature ensures an organized and up-to-date category structure for the website. :  
+**Categories Page** The Categories page in the admin panel allows for efficient management of product categories. Admins can create new categories, update existing ones, and delete obsolete categories. This feature ensures an organized and up-to-date category structure for the website. :  
 
 
 
@@ -152,7 +169,12 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**Program/Workshop Launch Page ~** The Product Launch Hub page provides a streamlined interface for introducing new products. It allows the Admin to input essential details including the product name, description, category, and price. Additionally, the Admin can specify available spots and set the shipping status :
+
+
+
+
+
+**Program/Workshop Launch Page** The Product Launch Hub page provides a streamlined interface for introducing new products. It allows the Admin to input essential details including the product name, description, category, and price. Additionally, the Admin can specify available spots and set the shipping status :
 
 
 
@@ -164,7 +186,12 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**Update Products Page ~** The Update Products page provides a user-friendly interface for the admin to manage and maintain product listings. The admin can update crucial details such as product name, description, category, price, available spots, and shipping status. Additionally, this page includes an option to delete products, ensuring that the admin can efficiently manage the inventory and keep the product catalog up to date.
+
+
+
+
+
+**Update Products Page** The Update Products page provides a user-friendly interface for the admin to manage and maintain product listings. The admin can update crucial details such as product name, description, category, price, available spots, and shipping status. Additionally, this page includes an option to delete products, ensuring that the admin can efficiently manage the inventory and keep the product catalog up to date.
 
 
 
@@ -177,7 +204,11 @@ Open your browser and navigate to **http://localhost:3000** to view the applicat
 
 
 
-**All orders Page of the Admin Panel ~** The All Orders page in the admin panel offers a comprehensive view of all customer orders. It displays critical information including the status of each order, the quantity of products purchased, payment status, and the time when each order was placed.
+
+
+
+
+**All orders Page of the Admin Panel** The All Orders page in the admin panel offers a comprehensive view of all customer orders. It displays critical information including the status of each order, the quantity of products purchased, payment status, and the time when each order was placed.
 
 
 
