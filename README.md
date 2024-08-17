@@ -11,7 +11,7 @@ The platform also allows users manage their program subscriptions, and access we
 [Technologies Used](#Technologies-Used)
 
 
-[Running the Application](#Ruunning-the-Application)
+[Running the Application](#Running-the-Application)
 
 
 [Website Pages Preview](#Website-Pages-Preview)
