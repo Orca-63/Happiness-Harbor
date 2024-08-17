@@ -4,29 +4,26 @@ Users can explore and enroll in various mental health activities, including mind
 The platform also allows users manage their program subscriptions, and access wellness resources, all within a secure and user-friendly environment.
 
 
+# Table of Contents : 
+[Features](#L10)
+
 # Features :
-## Browse Programs : 
-Explore an extensive collection of mental well-being programs across various categories.
+**Browse Programs** : Explore an extensive collection of mental well-being programs across various categories.
 
 
-## Interactive Content : 
-Access engaging workshops and activities that are specifically designed for mental well-being.
+**Interactive Content** : Access engaging workshops and activities that are specifically designed for mental well-being.
 
 
-## Admin Dashboard : 
-Administrators can manage programs, monitor user engagement, and update content.
+**Admin Dashboard** : Administrators can manage programs, monitor user engagement, and update content.
 
 
-## Search Functionality : 
-Quickly find the most relevant programs with a powerful search engine that returns results based on keywords.
+**Search Functionality** : Quickly find the most relevant programs with a powerful search engine that returns results based on keywords.
 
 
-## Filtering Options : 
-Narrow down your choices with filtering by price and category to find the perfect program for your needs.
+**Filtering Options** : Narrow down your choices with filtering by price and category to find the perfect program for your needs.
 
 
-## Product Recommendations : 
-Receive personalized recommendations for similar programs when viewing a particular product.
+**Product Recommendations** : Receive personalized recommendations for similar programs when viewing a particular product.
 
 
 
@@ -37,36 +34,28 @@ Receive personalized recommendations for similar programs when viewing a particu
 ## Frontend :
 
 
-## HTML  : 
-Structuring web content and layout.
+**HTML**  : Structuring web content and layout.
 
 
-## CSS : 
-Styling and visual presentation of the website.
+**CSS** : Styling and visual presentation of the website.
 
 
-## Bootstrap  : 
-For responsive design and styling.
+**Bootstrap**: For responsive design and styling.
 
 
-## React.js : 
-For building dynamic and interactive user interfaces.
+**React.js** : For building dynamic and interactive user interfaces.
 
 
-## Axios :
-For making HTTP requests and handling API communication.
+**Axios** : For making HTTP requests and handling API communication.
 
 
-## Moment.js : 
-For date and time formatting.
+**Moment.js** : For date and time formatting.
 
 
-## Ant Design (antd) : 
-Provides a set of high-quality React components and design elements.
+**Ant Design (antd)** : Provides a set of high-quality React components and design elements.
 
 
-## React Toastify : 
-For user notifications and alerts.
+**React Toastify** : For user notifications and alerts.
 
 
 
@@ -74,16 +63,13 @@ For user notifications and alerts.
 ## Backend : 
 
 
-## Node.js : 
-For server-side operations and building the back-end environment.
+**Node.js** : For server-side operations and building the back-end environment.
 
 
-## Express.js : 
-For creating RESTful APIs and managing server-side logic.
+**Express.js** : For creating RESTful APIs and managing server-side logic.
 
 
-## MongoDB : 
-For data storage and management.
+**MongoDB** : For data storage and management.
 
 
 
